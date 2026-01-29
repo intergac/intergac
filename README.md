@@ -36,7 +36,7 @@ Sou um **Diretor de Tecnologia** apaixonado por transformar desafios empresariai
 
 ### 🐍 Ferramentas & Plataformas
 
-**Power Query (M)** | **SQL** | **Python** | **PowerShell** | **Excel VBA** | **Git**
+**Power Query (M)** | **SQL** | **Python** | **PowerShell** | **Office Script** | **Git**
 
 ---
 
