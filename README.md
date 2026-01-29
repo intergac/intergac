@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Guilherme
+# 👋 Olá! Eu sou o Guilherme Campos
 
 **Diretor de Tecnologia | Estratega de Inovação Digital | Líder de Transformação**
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## 🦉 Sobre mim
 
 Sou um **Diretor de Tecnologia** apaixonado por transformar desafios empresariais em soluções tecnológicas escaláveis e inovadoras. Com mais de **10 anos de experiência** em infraestrutura, cloud, segurança e inteligência artificial, lidero equipes e projetos que geram impacto real nos negócios.
 
